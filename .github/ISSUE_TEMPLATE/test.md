@@ -1,3 +1,9 @@
+---
+name: Test report
+about: Create a report to help us improve
+
+---
+
 # QA/Testing Issue Instructions 
 When a Test Case from our [Origin DApp Testing & QA Spreadsheet](https://goo.gl/251wLY) fails or does not produce the expected result, use this Issue Template so we can **can fix it as quickly as possible**.
 
